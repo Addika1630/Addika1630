@@ -1,8 +1,8 @@
-# 🏄 <200d>♂️ Forrest Knight
+# 🏄 Addisu Mulat
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Web Developer (Back-end/Python/SQL)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Passionate backend web developer specializing in Python, with expertise in Django and Flask frameworks. Embarking on an exciting journey into data science, blending coding finesse with analytical skills. Dedicated to crafting robust web solutions and unraveling insights from data. Enthusiastic about the intersection of technology and data-driven innovation.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
