@@ -1,8 +1,7 @@
 # 🏄 Addisu Mulat
 
-**`Web Developer (Back-end/Python/SQL)`**
-
 Data Scientist with years of experience in data science and software engineering. Expert at converting complex data into actionable  insights that drive strategic decisions and solve complex problems. Proven track record in enhancing data-driven decision-making and optimizing business processes.
+
 ---
 
 ### 🧰  Languages and Tools
