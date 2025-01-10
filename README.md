@@ -2,8 +2,9 @@
 
 **`Web Developer (Back-end/Python/SQL)`**
 
-Passionate backend web developer specializing in Python, with expertise in Django and Flask frameworks. Embarking on an exciting journey into data science, blending coding finesse with analytical skills. Dedicated to crafting robust web solutions and unraveling insights from data. Enthusiastic about the intersection of technology and data-driven innovation.
-
+Data Scientist with years of experience in data science and software engineering. Expert at converting complex data into actionable
+insights that drive strategic decisions and solve complex problems. Proven track record in enhancing data-driven decision-making and
+optimizing business processes.
 ---
 
 ### 🧰  Languages and Tools
